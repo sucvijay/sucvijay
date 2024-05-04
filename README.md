@@ -3,10 +3,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile-link" target="_blank">
+  <a href="https://www.linkedin.com/in/sucvijay/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/sucvijay" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
@@ -62,10 +62,10 @@
 <!-- Footer -->
 <p align="center">
   Let's connect and collaborate! <br>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile-link" target="_blank">
+  <a href="https://www.linkedin.com/in/sucvijay/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/sucvijay" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
